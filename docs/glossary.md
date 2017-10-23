@@ -91,7 +91,7 @@ free software licenses, and is a widely-used alternative to commercial
 proprietary products like InstallShield. [electron-builder] supports NSIS
 as a build target.
 
-## OSR
+### OSR
 
 Off-screen rendering.
 
